@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 280" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path class="w1" d="M0 236H416"/>
+<rect x="150" y="96" width="250" height="140" rx="3" class="fd w"/>
+<path class="w1" d="M150 142H400M150 188H400"/>
+<rect x="176" y="108" width="46" height="24" class="w1"/><rect x="250" y="108" width="46" height="24" fill="#E3B85E" fill-opacity=".4" class="g a-glow"/><rect x="324" y="108" width="46" height="24" class="w1"/>
+<rect x="176" y="154" width="46" height="24" class="w1"/><rect x="250" y="154" width="46" height="24" class="w1"/><rect x="324" y="154" width="46" height="24" class="w1"/>
+<g class="a-flame"><path class="fg" d="M273 18c-8 16-28 24-28 50 0 18 13 30 28 30s28-12 28-30c0-13-6-20-11-27-2 7-6 11-10 12 2-13 0-25-7-35z"/><path class="fb" d="M273 54c-5 9-13 13-13 24 0 8 6 14 13 14s13-6 13-14c0-9-8-15-13-24z"/></g>
+<g transform="translate(84 236) scale(1.1)"><circle cx="0" cy="-66" r="10" class="fd g"/><path class="g" d="M-11-71h22M-8-74c2-6 14-6 16 0"/><path class="fd g" d="M-15 -50c0-5 5-6 15-6s15 1 15 6v28h-5V0h-8V-18h-4V0h-8V-22h-5z"/></g>
+<path class="a-sway" fill="url(#c)" d="M100 170L180 236H60Z" opacity=".6"/>
+<path class="r" d="M0 260C100 248 200 272 300 258S400 254 416 260"/>
+<circle cx="84" cy="258" r="7" class="fg"/><circle cx="84" cy="258" r="13" class="g1 a-ping"/><circle cx="300" cy="258" r="7" class="fg"/><circle cx="300" cy="258" r="13" class="g1 a-ping"/>
+</svg>

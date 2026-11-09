@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path class="w1" d="M0 268H640"/>
+<path class="w" d="M250 268V116H460V268M250 154H460M250 192H460M250 230H460M302 116V268M354 116V268M406 116V268"/>
+<path class="g1" d="M250 154l52 38M302 154l52 38M354 192l52 38M406 116l54 38"/>
+<path class="g" d="M130 268V34M152 268V34M130 60L152 34M152 92L130 60M130 124L152 92M152 156L130 124M130 188L152 156M152 220L130 188M130 252L152 220"/>
+<path class="g" d="M70 34H440M70 34L141 8 440 34M141 8V34M90 34v22"/><rect x="62" y="56" width="50" height="26" class="fd g"/>
+<g class="a-hook"><path class="w" d="M372 34V92"/><rect x="346" y="92" width="52" height="20" class="fd g"/></g>
+<path class="a-flicker" fill="url(#y)" d="M560 86L470 268H640Z"/><path class="w" d="M560 76V268M544 76H576"/><circle cx="560" cy="84" r="6" class="fw"/>
+<path class="w" d="M0 232H220M0 232v36M44 232v36M88 232v36M132 232v36M176 232v36M220 232v36"/>
+<path class="w1" d="M0 268L44 232 88 268 132 232 176 268 220 232"/>
+<path class="r" d="M0 296H640"/>
+<circle cx="222" cy="296" r="7" class="fg"/><circle cx="222" cy="296" r="13" class="g1 a-ping"/><circle cx="482" cy="296" r="7" class="fg"/><circle cx="482" cy="296" r="13" class="g1 a-ping"/>
+</svg>

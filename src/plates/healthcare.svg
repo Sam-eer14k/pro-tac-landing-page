@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path class="w1" d="M0 262H320"/>
+<rect x="56" y="104" width="208" height="158" class="fd w"/><rect x="118" y="60" width="84" height="44" class="fd w"/>
+<path class="fg a-pulse" d="M152 68h16v10h10v14h-10v10h-16V92h-10V78h10z"/>
+<rect x="80" y="124" width="24" height="22" class="w1"/><rect x="80" y="164" width="24" height="22" class="w1"/><rect x="126" y="124" width="24" height="22" class="w1"/><rect x="126" y="164" width="24" height="22" class="w1"/><rect x="172" y="124" width="24" height="22" class="w1"/><rect x="172" y="164" width="24" height="22" class="w1"/><rect x="218" y="124" width="24" height="22" class="w1"/><rect x="218" y="164" width="24" height="22" class="w1"/>
+<path class="g" d="M116 262V212h88v50M100 212h120"/><path class="w1" d="M160 212v50"/>
+<path class="r" d="M0 294H320"/>
+<circle cx="160" cy="294" r="7" class="fg"/><circle cx="160" cy="294" r="13" class="g1 a-ping"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 280" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path class="w1" d="M0 232H416"/>
+<path class="a-flicker" fill="url(#y)" d="M78 40L0 232H220Z"/>
+<path class="w" d="M78 30V232M64 30H92"/><circle class="fw a-flicker" cx="78" cy="38" r="6"/>
+<rect x="238" y="96" width="120" height="136" rx="3" class="fd w"/><path class="g" d="M228 96H368L356 74H240Z"/><rect x="256" y="118" width="84" height="48" fill="#E3B85E" fill-opacity=".3" class="g1 a-glow"/><path class="w1" d="M298 118V166"/>
+<rect x="130" y="176" width="20" height="56" class="fd w"/><path class="g" d="M150 186H232" stroke-dasharray="14 8"/>
+<g transform="translate(196 232) scale(1)"><circle cx="0" cy="-66" r="10" class="fd g"/><path class="g" d="M-11-71h22M-8-74c2-6 14-6 16 0"/><path class="fd g" d="M-15 -50c0-5 5-6 15-6s15 1 15 6v28h-5V0h-8V-18h-4V0h-8V-22h-5z"/></g>
+<path class="r" d="M0 256C100 244 200 268 300 254S400 250 416 256"/>
+<circle cx="300" cy="254" r="7" class="fg"/><circle cx="300" cy="254" r="13" class="g1 a-ping"/>
+</svg>

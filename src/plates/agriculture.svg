@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<g class="a-glowpath"><circle cx="204" cy="66" r="24" class="fw" opacity=".9"/><circle cx="194" cy="60" r="22" fill="#1E2845"/></g>
+<path class="w" d="M0 150C60 118 104 130 150 146S260 128 320 150"/>
+<path class="g1" d="M160 150L-120 320"/><path class="g1" d="M160 150L-50 320"/><path class="g1" d="M160 150L20 320"/><path class="g1" d="M160 150L90 320"/><path class="g1" d="M160 150L160 320"/><path class="g1" d="M160 150L230 320"/><path class="g1" d="M160 150L300 320"/><path class="g1" d="M160 150L370 320"/><path class="g1" d="M160 150L440 320"/>
+<path class="w" d="M16 150v-34M44 142v-34M16 124h28M16 134h28"/>
+<path class="r" d="M0 278C60 244 118 300 186 262S290 238 320 250"/>
+<circle cx="186" cy="262" r="7" class="fg"/><circle cx="186" cy="262" r="13" class="g1 a-ping"/>
+</svg>

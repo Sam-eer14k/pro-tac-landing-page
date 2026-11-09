@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 280" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path class="w1" d="M0 212H416"/><path class="w a-road" stroke-dasharray="26 18" d="M0 246H416"/>
+<path class="w1" d="M0 212V128H62V90H118V148H176V212M300 212V100H352V66H416"/><path class="w1" d="M78 108h10M98 108h10M78 128h10M98 128h10M316 120h10M334 120h10M316 142h10M334 142h10M368 86h10M390 86h10"/>
+<path class="a-beam" fill="url(#h)" d="M300 190L470 130V250Z"/>
+<path class="fd w" d="M96 214V180c0-6 3-9 10-10l26-4 26-30c3-3 6-4 10-4h64c5 0 8 1 11 4l26 32 34 8c6 1 9 5 9 11v27z"/>
+<path class="g" d="M140 166l22-24h40v24zM214 142h22c4 0 6 1 8 3l17 21h-47z"/>
+<circle cx="150" cy="216" r="20" class="fb g"/><circle cx="264" cy="216" r="20" class="fb g"/><circle cx="150" cy="216" r="7" class="fg"/><circle cx="264" cy="216" r="7" class="fg"/>
+<rect x="184" y="118" width="34" height="14" rx="3" class="ft a-blink"/>
+<circle cx="303" cy="190" r="5" class="fw"/>
+<path class="g" d="M96 196h200"/>
+</svg>
